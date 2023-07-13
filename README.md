@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://skatemoss.ru/" target="_blank">Mikhail</a> </h1>
-<h3 align="center">Junior Data Analyst, Graduate Student at Netology</h3>
+<h3 align="center">Junior Data Analyst, Junior PBN Researcher at <a href="https://legalbet.com" target="blank">legalbet.com</a></h3>
 
 - 🌱 Completed the Data Analyst course at **Netology**.
 - 🤔 I am interested in **data analysis, SQL, Python and web scraping.**
